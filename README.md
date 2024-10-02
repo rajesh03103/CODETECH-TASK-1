@@ -11,6 +11,11 @@ Mentor: Neela Santhu Kumar
 
 Overview Of The Project
 
+
+![image](https://github.com/user-attachments/assets/459bb27d-5614-42db-8e9a-d3ee2c8f509a)
+![image](https://github.com/user-attachments/assets/16980f4d-68fc-45a9-aa73-974bcf33f31b)
+
+
 Library Management System Database Project
 This project involves designing and implementing a database for a library management system. The database tracks information about books, members, and transactions (borrowing and returning of books).
 
